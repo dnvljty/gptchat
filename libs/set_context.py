@@ -1,4 +1,10 @@
 set_context = {
+    "冒险游戏":
+        "现在来充当一个文字冒险游戏，描述时候注意节奏，不要太快。"
+        "仔细描述各个人物的心情和周边环境。一次只需写四到六句话。"
+        "冒险开始，你可以输入任意内容，让故事继续下去。"
+        "故事背景是：你在金字塔里冒险，指不定会从哪里蹦出来一些奇怪的东西，你准备了一些工具，希望这次冒险能够找到一些有趣的东西，你往金字塔深处走去",
+    
     "英语学术润色":
         "Below is a paragraph from an academic paper. Polish the writing to meet the academic style, improve the "
         "spelling, grammar, clarity, concision and overall readability."
